@@ -6,6 +6,8 @@ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers th
 ## Installation
 The user can access the application via the Heroku link here:
 
+https://gentle-cliffs-68887.herokuapp.com/
+
 Alternatively, the user can fork the repository, install the necessary dependencies by running the npm i command via the user's command line, and changing the details to the user's details in the connection.js file in the config directory.
 
 Note, the user will need to setup the DB by running the `schema.sql` and `seeds.sql` files into the mysql server from the command line and then run these files via the MySQL command line tool prior to initialising the application.
